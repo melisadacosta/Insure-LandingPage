@@ -1,0 +1,32 @@
+.navbar-nav, main{
+    .btn{
+        border-radius: 0;
+        font-family: $font-body;
+        font-weight: 700;
+        text-transform: uppercase;
+        padding: .375rem 1.75rem;
+    }
+}
+
+.navbar-nav{
+    .btn-outline-primary{
+        color: $primary-color-dark;
+        border-color: $primary-color-dark;
+        &:hover{
+            background-color: $primary-color-dark;
+            color: white;
+            border-color: $primary-color-dark;
+        }
+    }
+}
+main{
+    .btn-outline-primary{
+        color: #ffffff;
+        border-color: #ffffff;
+        &:hover{
+            background-color: #ffffff;
+            color: $primary-color-dark;
+            border-color: #ffffff;
+        }
+    }
+}

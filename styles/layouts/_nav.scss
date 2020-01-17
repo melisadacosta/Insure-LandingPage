@@ -1,4 +1,7 @@
-
+.navbar{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
 .nav-link{
     font-family: $font-body;
     text-transform: uppercase;
@@ -6,22 +9,4 @@
     font-weight: 700;
     padding-right: 1.5em !important;
 }
-.navbar-nav{
-    .btn{
-        border-radius: 0;
-        font-family: $font-body;
-        font-weight: 700;
-        text-transform: uppercase;
-        padding: .375rem 1.75rem;
-    }
-        .btn-outline-primary{
-            color: $primary-color-dark;
-            border-color: $primary-color-dark;
-            &:hover{
-                background-color: $primary-color-dark;
-                color: white;
-                border-color: $primary-color-dark;
-            }
-        }
-        
-}
+
