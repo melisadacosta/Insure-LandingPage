@@ -1,5 +1,5 @@
 # Insure-LandingPage
-
+https://github.com/melisadacosta/Insure-LandingPage/blob/master/img/desktop-preview.jpg
 Welcome! 👋
 Thanks for checking out this front-end coding challenge.
 
