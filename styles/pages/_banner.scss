@@ -1,0 +1,46 @@
+.banner{
+    background-color: $primary-color-dark;
+    padding: 50px;
+    background-image: url(../../img/bg-pattern-how-we-work-desktop.svg);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    h2{
+        color: #ffffff;
+        margin: 0px;
+    }
+}
+
+@media (max-width: 992px){
+    .banner{
+        h2{
+            font-size: 50px;
+        }
+        .btn{
+            padding:6px 12px;
+        }
+    }
+    .btn-outline-primary{
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 768px){
+    .banner{
+        h2{
+            font-size: 37px;
+        }
+    }
+}
+
+@media (max-width: 576px){
+    .banner{
+        background-image: url(../../img/bg-pattern-how-we-work-mobile.svg);
+        background-repeat: no-repeat;
+        background-position-x: right;
+        text-align: center;
+        h2{
+            padding-bottom: 40px;
+            font-size: 50px;
+        }
+    }
+}
