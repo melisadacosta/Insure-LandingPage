@@ -1,5 +1,6 @@
 # Insure-LandingPage
-https://raw.githubusercontent.com/melisadacosta/Insure-LandingPage/master/img/desktop-preview.jpg
+![Preview]
+(https://raw.githubusercontent.com/melisadacosta/Insure-LandingPage/master/img/desktop-preview.jpg)
 
 Welcome! 👋
 Thanks for checking out this front-end coding challenge.
